@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "9080",
+      "cityName": "Leonessa",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-06-10T15:27:14.000Z",
+      "notes": "dsfsdfads",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "42.581816366542796",
+        "lng": "12.928532427229229"
+      }
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "id": "de81",
+      "cityName": "Grisy-Suisnes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-18T16:29:08.000Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "48.682788398013095",
+        "lng": "2.651841868524954"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "d714",
+      "cityName": "Sacedon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-04T15:56:24.109Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "40.41207998195426",
+        "lng": "-2.7448730127281"
+      }
     }
   ]
 }
