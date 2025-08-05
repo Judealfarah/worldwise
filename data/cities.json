@@ -1,39 +1,51 @@
 {
   "cities": [
     {
-      "id": "9080",
-      "cityName": "Leonessa",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-06-10T15:27:14.000Z",
-      "notes": "dsfsdfads",
+      "id": "9d99",
+      "cityName": "Florennes",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2025-08-04T16:02:12.183Z",
+      "notes": "",
       "position": {
-        "lat": "42.581816366542796",
-        "lng": "12.928532427229229"
+        "lat": "50.2594281555532",
+        "lng": "4.654750258111591"
       }
     },
     {
-      "id": "de81",
-      "cityName": "Grisy-Suisnes",
+      "id": "957f",
+      "cityName": "Saint-Martin-le-Gaillard",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2025-02-18T16:29:08.000Z",
+      "date": "2025-08-04T16:02:15.699Z",
       "notes": "",
       "position": {
-        "lat": "48.682788398013095",
-        "lng": "2.651841868524954"
+        "lat": "49.948569885289366",
+        "lng": "1.3683452069607063"
       }
     },
     {
-      "id": "d714",
-      "cityName": "Sacedon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-04T15:56:24.109Z",
+      "id": "9a8c",
+      "cityName": "Versailles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-04T16:02:18.434Z",
       "notes": "",
       "position": {
-        "lat": "40.41207998195426",
-        "lng": "-2.7448730127281"
+        "lat": "48.803939443980596",
+        "lng": "2.1642386492561054"
+      }
+    },
+    {
+      "id": "00b0",
+      "cityName": "Nova Ves I",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-08-04T16:02:22.032Z",
+      "notes": "",
+      "position": {
+        "lat": "50.05910309091402",
+        "lng": "15.154444370123416"
       }
     }
   ]
