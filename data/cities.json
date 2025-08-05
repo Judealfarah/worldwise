@@ -47,6 +47,90 @@
         "lat": "50.05910309091402",
         "lng": "15.154444370123416"
       }
+    },
+    {
+      "id": "54c4",
+      "cityName": "Czeremcha",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-08-05T16:04:09.462Z",
+      "notes": "",
+      "position": {
+        "lat": "52.48271347122427",
+        "lng": "23.2744917613466"
+      }
+    },
+    {
+      "id": "1be9",
+      "cityName": "Dabie",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-08-05T16:04:14.777Z",
+      "notes": "",
+      "position": {
+        "lat": "52.13345368267258",
+        "lng": "18.89748532326935"
+      }
+    },
+    {
+      "id": "8c86",
+      "cityName": "Witzenhausen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-08-05T16:04:18.897Z",
+      "notes": "",
+      "position": {
+        "lat": "51.34437547860062",
+        "lng": "9.887861471346882"
+      }
+    },
+    {
+      "id": "2f08",
+      "cityName": "Worth a.Main",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-08-05T16:04:20.894Z",
+      "notes": "",
+      "position": {
+        "lat": "49.78129631039625",
+        "lng": "9.149707599064289"
+      }
+    },
+    {
+      "id": "c036",
+      "cityName": "Simplon",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2025-08-05T16:04:22.977Z",
+      "notes": "",
+      "position": {
+        "lat": "46.195117774072514",
+        "lng": "8.050655189377572"
+      }
+    },
+    {
+      "id": "0b11",
+      "cityName": "Sankt Gallenkirch",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2025-08-05T16:04:24.978Z",
+      "notes": "",
+      "position": {
+        "lat": "47.01020881113038",
+        "lng": "9.899872440816175"
+      }
+    },
+    {
+      "id": "21ba",
+      "cityName": "Auenwald",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-08-05T16:04:28.093Z",
+      "notes": "",
+      "position": {
+        "lat": "48.96580814381529",
+        "lng": "9.519855348045564"
+      }
     }
   ]
 }
